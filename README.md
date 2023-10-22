@@ -1,0 +1,1 @@
+![Final Clock](final-clock.gif)
